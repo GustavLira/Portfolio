@@ -1,0 +1,1133 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300;400;500;600;700;800&display=swap');
+
+@media screen and (min-width: 1701px){
+   
+    .header > a > button{
+        margin-left: 150px;
+        margin-right: 20px;
+    }
+
+    .container > .home > .left{
+        padding-right: 10%;
+        width: 60vw;
+    }
+
+    .container > .home > .right{
+        padding-left: 6%;
+    }
+
+
+    .container > .home > .right > img{
+        width: 450px;
+        padding-right: 10px;
+    }
+
+    .container > .about > .about_me > .about_left{
+        padding-left: 20px;
+        margin-left: 9%;
+    }
+
+    .container > .about > .about_me > .about_left > img{
+        width: 450px;
+    }
+
+    .container > .about > .about_me > .about_right{
+        padding-left: 5%;
+    }
+
+    .container > .about > .about_me > .about_right > h2{
+        width: 350px;
+        font-size: 30pt;
+    }
+
+    .container > .about > .about_me > .about_right > h5{
+        width: 370px;
+    }
+
+    .container > .about > .about_me > .about_right > .skills{
+        margin-left: -190px;
+    }
+
+    .container > .portfolio > .port > .linha > .bloco{
+        width: 300px;
+    }
+
+    .container > .portfolio > .port > .linha > .bloco > .blocodobloco{
+        width: 300px
+    }
+
+    .container > .carreira > .mcarreira > .left > .quadrado{
+        width: 500px;
+    }
+
+    .container > .carreira > .mcarreira > .right > .quadrado{
+        width: 500px;
+        height: 200px;
+    }
+
+    .container > .carreira > .mcarreira > .left{
+        padding-left: 0%;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .container > .carreira > .mcarreira > .right{
+        padding-right: 0%;
+    }
+
+    .container > .carreira > .mcarreira > .right > .quadrado > .baixo{
+        gap: 0%;
+    }
+
+    .container > .carreira > .mcarreira > .right > #quadrado1 > .baixo{
+        margin-top: 4.5%;
+        gap: 33.5%;
+    }
+    
+    .container > .carreira > .mcarreira > .right > #quadrado2 > .baixo{
+        margin-top: 8.2%;
+        gap: 47.5%;
+    }
+    
+    .container > .carreira > .mcarreira > .right > #quadrado3 > .baixo{
+        margin-top: 11.6%;
+        gap: 44.2%;
+    }
+    
+    .container > .carreira > .mcarreira > .right > #quadrado4 > .baixo{
+        margin-top: 11.6%;
+        gap: 31.7%;
+    }
+}
+
+@media screen and (min-width: 1501px) and (max-width: 1700px){
+
+    .header > a > button{
+        margin-left: 150px;
+        margin-right: 20px;
+    }
+
+    .container > .home > .left{
+        padding-right: 15%;
+        width: 60vw;
+
+    }
+
+    .container > .home > .right{
+        width: 40vw;
+        padding-left: 0%;
+    }
+
+
+    .container > .home > .right > img{
+        width: 450px;
+        padding-right: 10px;
+    }
+
+    .container > .about > .about_me > .about_left{
+        padding-left: 20px;
+        margin-left: 9%;
+    }
+
+    .container > .about > .about_me > .about_left > img{
+        width: 450px;
+    }
+
+    .container > .about > .about_me > .about_right{
+        padding-left: 5%;
+    }
+
+    .container > .about > .about_me > .about_right > h2{
+        width: 350px;
+        font-size: 30pt;
+    }
+
+    .container > .about > .about_me > .about_right > h5{
+        width: 370px;
+    }
+
+    .container > .about > .about_me > .about_right > .skills{
+        margin-left: -190px;
+    }
+
+    .container > .portfolio > .port > .linha > .bloco{
+        width: 300px;
+    }
+
+    .container > .portfolio > .port > .linha > .bloco > .blocodobloco{
+        width: 300px
+    }
+
+    .container > .carreira > .mcarreira > .left{
+        padding-left: 0%;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .container > .carreira > .mcarreira > .right{
+        padding-right: 0%;
+    }
+}
+
+
+@media screen and (min-width: 1211px) and (max-width: 1500px){
+
+    .container > .home > .left > .icons{
+        width: 400px;
+    }
+
+    .header > a > button{
+        margin-left: 150px;
+        margin-right: 20px;
+    }
+
+    .container > .home > .left{
+        padding-right: 15%;
+        width: 70vw;
+
+    }
+
+    .container > .home > .right{
+        width: 30vw;
+        padding-left: 0%;
+        margin-right: 15%;
+    }
+
+    .container > .home > .right > img{
+        width: 450px;
+        padding-right: 10px;
+    }
+
+    .container > .about > .about_me > .about_left{
+        padding-left: 0px;
+    }
+
+    .container > .about > .about_me > .about_left > img{
+        width: 450px;
+    }
+
+    .container > .about > .about_me > .about_right{
+        padding-left: 10%;
+    }
+
+    .container > .about > .about_me > .about_right > h2{
+        width: 350px;
+        font-size: 30pt;
+    }
+
+    .container > .about > .about_me > .about_right > h5{
+        width: 370px;
+    }
+
+    .container > .about > .about_me > .about_right > .skills{
+        margin-left: -190px;
+    }
+
+    .container > .portfolio > .port > .linha > .bloco{
+        width: 220px;
+    }
+
+    .container > .portfolio > .port > .linha > .bloco > .blocodobloco{
+        width: 220px
+    }
+
+    .container > .carreira > .mcarreira{
+        flex-direction: column;
+    }
+
+    .container > .carreira > .mcarreira > .left{
+        padding-left: 0%;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .container > .carreira > .mcarreira > .right{
+        padding-right: 0%;
+    }
+}
+
+
+@media screen and (min-width: 1011px) and (max-width: 1210px){
+    .header > ul{
+        gap: 15px;
+    }
+
+    .header > a > button{
+        margin-left: 150px;
+        margin-right: 20px;
+    }
+
+    .container > .home > .left{
+        padding-left: 13%;
+    }
+
+    .container > .home > .right{
+        padding-left: 4%
+    }
+
+    .container > .home > .right > img{
+        width: 380px;
+    }
+
+    .container > .about > .about_me > .about_left{
+        padding-left: 0%;
+
+    }
+
+    .container > .about > .about_me > .about_left > img{
+        width: 380px;
+        margin-left: 20%;
+    }
+
+    .container > .about > .about_me > .about_right{
+        padding-left: 10px;
+    }
+
+    .container > .about > .about_me > .about_right > h2{
+        width: 350px;
+        font-size: 30pt;
+    }
+
+    .container > .about > .about_me > .about_right > h5{
+        width: 370px;
+    }
+
+    .container > .about > .about_me > .about_right > .skills{
+        margin-left: -190px;
+    }
+
+    .container > .portfolio > .port > .linha > .bloco{
+        width: 220px;
+    }
+
+    .container > .portfolio > .port > .linha > .bloco > .blocodobloco{
+        width: 220px
+    }
+
+    .container > .carreira > .mcarreira{
+        flex-direction: column;
+    }
+
+    .container > .carreira > .mcarreira > .left{
+        padding-left: 0%;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .container > .carreira > .mcarreira > .right{
+        padding-right: 0%;
+    }
+}
+
+
+@media screen and (min-width: 924px) and (max-width: 1010px){
+
+    .header > ul{
+        gap: 20px;
+    }
+
+    .header > a > button{
+        margin-left: 150px;
+        margin-right: 20px;
+    }
+
+    .container > .home > .left{
+        padding-left: 6%;
+    }
+
+    .container > .home > .right{
+        padding-left: 4%
+    }
+
+    .container > .home > .right > img{
+        width: 380px;
+    }
+
+    .container > .about > .about_me > .about_left{
+        padding-left: 0%;
+
+    }
+
+    .container > .about > .about_me > .about_left > img{
+        width: 380px;
+        margin-left: 10%;
+    }
+
+    .container > .about > .about_me > .about_right{
+        padding-left: 10px;
+    }
+
+    .container > .about > .about_me > .about_right > h2{
+        width: 350px;
+        font-size: 30pt;
+    }
+
+    .container > .about > .about_me > .about_right > h5{
+        width: 370px;
+    }
+
+    .container > .about > .about_me > .about_right > .skills{
+        margin-left: -190px;
+    }
+
+    .container > .portfolio > .port > .linha > .bloco{
+        width: 200px;
+    }
+
+    .container > .portfolio > .port > .linha > .bloco > .blocodobloco{
+        width: 200px
+    }
+
+    .container > .carreira > .mcarreira{
+        flex-direction: column;
+    }
+
+    .container > .carreira > .mcarreira > .left{
+        padding-left: 0%;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .container > .carreira > .mcarreira > .right{
+        padding-right: 0%;
+    }
+
+}
+
+
+@media screen and (min-width: 855px) and (max-width: 924px){
+
+    .header > ul{
+        gap: 20px;
+    }
+
+    .header > a > button{
+        margin-left: 150px;
+        margin-right: 20px;
+    }
+
+    .container > .home > .left{
+        padding-left: 6%;
+    }
+
+    .container > .home > .right{
+        padding-left: 4%
+    }
+
+    .container > .home > .right > img{
+        width: 380px;
+    }
+
+    .container > .about > .about_me > .about_left{
+        padding-left: 0%;
+
+    }
+
+    .container > .about > .about_me > .about_left > img{
+        width: 380px;
+        margin-left: 10%;
+    }
+
+    .container > .about > .about_me > .about_right{
+        padding-left: 10px;
+    }
+
+    .container > .about > .about_me > .about_right > h2{
+        width: 350px;
+        font-size: 30pt;
+    }
+
+    .container > .about > .about_me > .about_right > h5{
+        width: 370px;
+    }
+
+    .container > .about > .about_me > .about_right > .skills{
+        margin-left: -190px;
+    }
+
+    .container > .portfolio > .port > .linha > .bloco{
+        width: 170px;
+    }
+
+    .container > .portfolio > .port > .linha > .bloco > .blocodobloco{
+        width: 170px
+    }
+
+    .container > .carreira > .mcarreira{
+        flex-direction: column;
+    }
+
+    .container > .carreira > .mcarreira > .left{
+        padding-left: 0%;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .container > .carreira > .mcarreira > .right{
+        padding-right: 0%;
+    }
+}
+
+@media screen and (min-width: 733px) and (max-width: 855px){
+    
+    .header > ul{
+        gap: 20px;
+    }
+
+    .header > a > button{
+        margin-left: 110px;
+        margin-right: 20px;
+    }
+
+    .container > .home > .left{
+        padding-left: 6%;
+    }
+
+    .container > .home > .right{
+        padding-left: 2%
+    }
+
+    .container > .home > .right > img{
+        width: 300px;
+    }
+
+    .container > .about > .about_me > .about_left{
+        padding-left: 0%;
+    }
+
+    .container > .about > .about_me > .about_left > img{
+        width: 300px;
+        margin-left: 0%;
+    }
+
+    .container > .about > .about_me > .about_right{
+        padding-right: 20px;
+    }
+
+    .container > .about > .about_me > .about_right > h2{
+        width: 300px;
+        font-size: 30pt;
+    }
+
+    .container > .about > .about_me > .about_right > h5{
+        width: 340px;
+    }
+
+    .container > .about > .about_me > .about_right > .skills{
+        margin-left: -220px;
+    }
+
+    .container > .portfolio > .port > .linha > .bloco{
+        width: 300px;
+    }
+
+    .container > .portfolio > .port > .linha > .bloco > .blocodobloco{
+        width: 300px;
+    }
+
+    .container > .portfolio > .port{
+        height: 2000px;
+    }
+
+    .container > .portfolio > .port > .linha{
+        flex-direction: column;
+        height: 1000px;
+    }
+
+    .container > .carreira > .mcarreira{
+        flex-direction: column;
+    }
+
+    .container > .carreira > .mcarreira > .left{
+        padding-left: 0%;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .container > .carreira > .mcarreira > .right{
+        padding-right: 0%;
+    }
+}
+
+@media screen and (min-width: 615px) and (max-width: 732px){
+    .header > ul{
+        gap: 0px;
+    }
+
+    .header > a > button{
+        margin-left: 10px;
+        margin-right: 20px;
+    }
+
+    .container > .home > .left{
+        padding-left: 1%;
+    }
+
+    .container > .home{
+        height: 750px;
+    }
+
+    .container > .home > .left > .icons{
+        flex-direction: column;
+        margin-top: 10px;
+        margin-right: 10%;
+    }
+
+    .container > .home > .left > .icons > button{
+        margin-top: 20px;
+    }
+
+    .container > .home > .right{
+        padding-left: 0%
+    }
+
+    .container > .home > .right > img{
+        width: 265px;
+    }
+
+    .container > .about > .about_me{
+        flex-direction: column;
+        padding-top: 20px;
+        padding-left: 9%;
+    }
+
+    .container > .about > .about_me > .about_left{
+        padding-left: 0%;
+    }
+
+    .container > .about > .about_me > .about_left > img{
+        width: 265px;
+        margin-left: 1%;
+    }
+
+    .container > .about > .about_me > .about_right > h2{
+        width: 300px;
+        font-size: 30pt;
+    }
+
+    .container > .about > .about_me > .about_right > h5{
+        width: 340px;
+    }
+
+    .container > .about > .about_me > .about_right > .skills{
+        margin-left: -210px;
+    }
+
+    .container > .portfolio > .port > .linha > .bloco{
+        width: 300px;
+    }
+
+    .container > .portfolio > .port > .linha > .bloco > .blocodobloco{
+        width: 300px;
+    }
+
+    .container > .portfolio > .port{
+        height: 2000px;
+    }
+
+    .container > .portfolio > .port > .linha{
+        flex-direction: column;
+        height: 1000px;
+    }
+
+    .container > .carreira > .mcarreira{
+        flex-direction: column;
+    }
+
+    .container > .carreira > .mcarreira > .left > .quadrado{
+        width: 500px;
+    }
+
+    .container > .carreira > .mcarreira > .right > .quadrado{
+        width: 500px;
+        height: 200px;
+    }
+
+    .container > .carreira > .mcarreira > .left{
+        padding-left: 0%;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .container > .carreira > .mcarreira > .right{
+        padding-right: 0%;
+    }
+
+    .container > .carreira > .mcarreira > .right > .quadrado > .baixo{
+        gap: 0%;
+    }
+
+    .container > .carreira > .mcarreira > .right > #quadrado1 > .baixo{
+        margin-top: 4.5%;
+        gap: 33.5%;
+    }
+    
+    .container > .carreira > .mcarreira > .right > #quadrado2 > .baixo{
+        margin-top: 8.2%;
+        gap: 47.5%;
+    }
+    
+    .container > .carreira > .mcarreira > .right > #quadrado3 > .baixo{
+        margin-top: 11.6%;
+        gap: 44.2%;
+    }
+    
+    .container > .carreira > .mcarreira > .right > #quadrado4 > .baixo{
+        margin-top: 11.6%;
+        gap: 31.7%;
+    }
+}
+
+
+@media screen and (min-width: 515px) and (max-width: 614px){
+    
+    .header > ul{
+        gap: 0px;
+    }
+
+    .header > a > button{
+        margin-left: 10px;
+        margin-right: 20px;
+    }
+
+    .container > .home > .left{
+        padding-left: 1%;
+    }
+
+    .container > .home > .left > .icons{
+        flex-direction: column;
+        margin-right: 10%;
+    }
+
+    .container > .home > .left > .icons > button{
+        margin-top: 20px;
+    }
+
+    .container > .home{
+        height: 750px;
+    }
+
+    .container > .home > .right{
+        padding-left: 0%
+    }
+
+    .container > .home > .right > img{
+        width: 265px;
+    }
+
+    .container > .about > .about_me{
+        flex-direction: column;
+        padding-top: 20px;
+    }
+
+    .container > .about > .about_me > .about_left{
+        padding-left: 0%;
+    }
+
+    .container > .about > .about_me > .about_left > img{
+        width: 265px;
+        margin-left: 1%;
+    }
+
+    .container > .about > .about_me > .about_right > h2{
+        width: 300px;
+        font-size: 30pt;
+    }
+
+    .container > .about > .about_me > .about_right > h5{
+        width: 340px;
+    }
+
+    .container > .about > .about_me > .about_right > .skills{
+        margin-left: -210px;
+    }
+
+    .container > .portfolio > .port > .linha > .bloco{
+        width: 300px;
+    }
+
+    .container > .portfolio > .port > .linha > .bloco > .blocodobloco{
+        width: 300px;
+    }
+
+    .container > .portfolio > .port{
+        height: 2000px;
+    }
+
+    .container > .portfolio > .port > .linha{
+        flex-direction: column;
+        height: 1000px;
+    }
+
+    .container > .carreira > .mcarreira{
+        flex-direction: column;
+    }
+
+    .container > .carreira > .mcarreira > .left > .quadrado{
+        width: 500px;
+    }
+
+    .container > .carreira > .mcarreira > .right > .quadrado{
+        width: 500px;
+        height: 200px;
+    }
+
+    .container > .carreira > .mcarreira > .left{
+        padding-left: 0%;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .container > .carreira > .mcarreira > .right{
+        padding-right: 0%;
+    }
+
+    .container > .carreira > .mcarreira > .right > .quadrado > .baixo{
+        gap: 0%;
+    }
+
+    .container > .carreira > .mcarreira > .right > #quadrado1 > .baixo{
+        margin-top: 4.5%;
+        gap: 33.5%;
+    }
+    
+    .container > .carreira > .mcarreira > .right > #quadrado2 > .baixo{
+        margin-top: 8.2%;
+        gap: 47.5%;
+    }
+    
+    .container > .carreira > .mcarreira > .right > #quadrado3 > .baixo{
+        margin-top: 11.6%;
+        gap: 44.2%;
+    }
+    
+    .container > .carreira > .mcarreira > .right > #quadrado4 > .baixo{
+        margin-top: 11.6%;
+        gap: 31.7%;
+    }
+}
+
+@media screen and (min-width: 410px) and (max-width: 514px){
+    
+    #Tirahome{
+        display: none;
+    }
+
+    .header > ul > a > li{
+        width: 80px;
+    }
+
+    .header > ul{
+        gap: 5px;
+    }
+
+    .header > a > button{
+        margin-left: 0px;
+        margin-right: 25px;
+    }
+
+    .container > .home > .left{
+        width: 100vw;
+        padding-right: 5%;
+    }
+
+    .container > .home > .right{
+        width: 0vw;
+    }
+
+    .container > .home{
+        height: 750px;
+    }
+
+    .container > .home > .left > .icons{
+        flex-direction: column;
+        margin-top: 10px;
+        margin-right: 10%;
+    }
+
+    .container > .home > .left > .icons > button{
+        margin-top: 20px;
+    }
+
+    .container > .home > .right{
+        padding-left: 0%
+    }
+
+    .container > .home > .right > img{
+        width: 265px;
+        display: none;
+    }
+
+    .container > .about > .about_me{
+        flex-direction: column;
+        padding-top: 20px;
+        padding-right: 32%;
+    }
+
+    .container > .about > .about_me > .about_left{
+        padding-left: 0%;
+    }
+
+    .container > .about > .about_me > .about_left > img{
+        width: 265px;
+        margin-left: 20%;
+    }
+
+    .container > .about > .about_me > .about_right > h2{
+        width: 300px;
+        font-size: 30pt;
+        text-align: center;
+        margin-left: 10%;
+    }
+
+    .container > .about > .about_me > .about_right > h5{
+        width: 340px;
+        text-align: center;
+    }
+
+    .container > .about > .about_me > .about_right > .skills{
+        margin-left: -190px;
+    }
+
+    .container > .portfolio > .port > .linha > .bloco{
+        width: 300px;
+    }
+
+    .container > .portfolio > .port > .linha > .bloco > .blocodobloco{
+        width: 300px;
+    }
+
+    .container > .portfolio > .port{
+        height: 2000px;
+    }
+
+    .container > .portfolio > .port > .linha{
+        flex-direction: column;
+        height: 1000px;
+    }
+
+    .container > .carreira > .mcarreira{
+        flex-direction: column;
+    }
+
+    .container > .carreira > .mcarreira > .left > .quadrado{
+        width: 400px;
+        height: 120px;
+
+    }
+
+    .container > .carreira > .mcarreira > .right > .quadrado{
+        width: 400px;
+        height: 220px;
+    }
+
+    .container > .carreira > .mcarreira > .left{
+        padding-left: 0%;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .container > .carreira > .mcarreira > .left > h1{
+        width: 130%;
+    }
+
+    .container > .carreira > .mcarreira > .right{
+        padding-right: 0%;
+    }
+
+    .container > .carreira > .mcarreira > .right > .quadrado > .baixo{
+        gap: 0%;
+    }
+
+    .container > .carreira > .mcarreira > .right > #quadrado1 > .baixo{
+        margin-top: 5.2%;
+        gap: 17.5%;
+    }
+    
+    .container > .carreira > .mcarreira > .right > #quadrado2 > .baixo{
+        margin-top: 10.4%;
+        gap: 34.5%;
+    }
+    
+    .container > .carreira > .mcarreira > .right > #quadrado3 > .baixo{
+        margin-top: 15.3%;
+        gap: 31.6%;
+    }
+    
+    .container > .carreira > .mcarreira > .right > #quadrado4 > .baixo{
+        margin-top: 15.3%;
+        gap: 16%;
+    }
+
+    .container > footer > h5{
+        margin-left: 4%;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 409px){
+    #Home{
+        display: none;
+    }
+
+    #hr{
+        display: none;
+    }
+
+    .container > .home > .left{
+        width: 100vw;
+        padding-right: 5%;
+    }
+
+    .container > .home > .right{
+        width: 0vw;
+    }
+
+    .container > .home{
+        height: 750px;
+    }
+
+    .container > .home > .left > .icons{
+        flex-direction: column;
+        margin-top: 10px;
+        margin-right: 10%;
+    }
+
+    .container > .home > .left > .icons > button{
+        margin-top: 20px;
+    }
+
+    .container > .home > .right{
+        padding-left: 0%
+    }
+
+    .container > .home > .right > img{
+        width: 265px;
+        display: none;
+    }
+
+    .container > .about > .about_me{
+        flex-direction: column;
+        padding-top: 20px;
+        padding-right: 52%;
+    }
+
+    .container > .about > .about_me > .about_left{
+        padding-left: 0%;
+    }
+
+    .container > .about > .about_me > .about_left > img{
+        width: 265px;
+        margin-left: 20%;
+    }
+
+    .container > .about > .about_me > .about_right > h2{
+        width: 300px;
+        font-size: 30pt;
+        text-align: center;
+        margin-left: 10%;
+    }
+
+    .container > .about > .about_me > .about_right > h5{
+        font-size: 13pt;
+        width: 300px;
+        padding-left: 30px;
+        text-align: center;
+    }
+
+    .container > .about > .about_me > .about_right > .skills{
+        margin-left: -155px;
+    }
+
+    .container > .about > .about_me > .about_right > .skills > h2{
+        width: 640px;
+    }
+
+    .container > .about > .about_me > .about_right > .skills > .habilidades >img{
+        width: 45px;
+    }
+
+    .container > .portfolio > .port > .linha > .bloco{
+        width: 300px;
+    }
+
+    .container > .portfolio > .port > .linha > .bloco > .blocodobloco{
+        width: 300px;
+    }
+
+    .container > .portfolio > .port{
+        height: 2000px;
+    }
+
+    .container > .portfolio > .port > .linha{
+        flex-direction: column;
+        height: 1000px;
+    }
+
+    .container > .carreira > .mcarreira{
+        flex-direction: column;
+    }
+
+    .container > .carreira > .mcarreira > .left > .quadrado{
+        width: 300px;
+        height: 120px;
+
+    }
+
+    .container > .carreira > .mcarreira > .right > .quadrado{
+        width: 300px;
+        height: 250px;
+    }
+
+    .container > .carreira > .mcarreira > .left{
+        padding-left: 0%;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .container > .carreira > h1{
+        font-size: 29pt;
+    }
+
+    .container > .carreira > .mcarreira > .left > h1{
+        width: 170%;
+    }
+
+    .container > .carreira > .mcarreira > .right{
+        padding-right: 0%;
+    }
+
+    .container > .carreira > .mcarreira > .right > .quadrado > .baixo{
+        gap: 0%;
+        font-size: 9pt;
+    }
+
+    .container > .carreira > .mcarreira > .right > #quadrado1 > .baixo{
+        margin-top: 5.7%;
+        gap: 13.5%;
+    }
+    
+    .container > .carreira > .mcarreira > .right > #quadrado2 > .baixo{
+        margin-top: 6.7%;
+        gap: 31.5%;
+    }
+    
+    .container > .carreira > .mcarreira > .right > #quadrado3 > .baixo{
+        margin-top: 25.7%;
+        gap: 28.6%;
+    }
+    
+    .container > .carreira > .mcarreira > .right > #quadrado4 > .baixo{
+        margin-top: 25.7%;
+        gap: 13%;
+    }
+
+    .container > footer > h5{
+        margin-left: 4%;
+        width: 100%;
+    }
+
+    .container > .contato > .contateMe > h1{
+        font-size: 30pt;
+    }
+}
