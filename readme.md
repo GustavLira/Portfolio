@@ -13,7 +13,7 @@ O principal objetivo do web site é ser um livro sobre o Gustavo Lira de Souza.
 - HTML: Para a estrutura da página.
 - CSS: Para o estilo e layout da página.
 - Git e GitHub: Para o controle de versão e hospedagem do código.
-- Figma: Para a clonagem do design.
+- Figma: Para a clonagem do design. 
 - Vercel: Para implantação e hospedagem.
 
 ## Desafios
