@@ -31,6 +31,6 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
 
 ## Deploy
 
-O projeto está disponível em [Clone-Sistok no Vercel](https://portfolio-gustavo-liras-projects.vercel.app) para visualização.
+O projeto está disponível em [Meu Portfolio](https://portfolio-gustavo-liras-projects.vercel.app) para visualização.
 
 Seja bem-vindo ao meu Portfólio, e sinta-se à vontade para contribuir ou entrar em contato conosco!
