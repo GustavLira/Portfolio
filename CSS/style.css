@@ -546,6 +546,11 @@ main{
     gap: 52.2%;
 }
 
+.container > .carreira > .mcarreira > .right > #quadrado3 > .baixo > #problema{
+    position: relative;
+    right: 6%;
+}
+
 .container > .carreira > .mcarreira > .right > #quadrado4 > .baixo{
     margin-top: 7.6%;
     gap: 42.2%;
