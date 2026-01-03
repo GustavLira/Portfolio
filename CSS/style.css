@@ -544,6 +544,7 @@ main{
 .container > .carreira > .mcarreira > .right > #quadrado3 > .baixo{
     margin-top: 7.6%;
     gap: 52.2%;
+    white-space: nowrap;
 }
 
 .container > .carreira > .mcarreira > .right > #quadrado3 > .baixo > #problema{
